@@ -1,9 +1,0 @@
-#常使用仓库
-ql repo https://github.com/CHERWING/CHERWIN_SCRIPTS.git "" "Cloudflare" "CHERWIN_TOOLS.py|notify.py" "" ""
-ql repo https://js.jdpro.site/https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify|utils"
-ql repo https://mirror.ghproxy.com/https://github.com/smallfawn/QLScriptPublic.git
-ql repo https://github.com/yuanter/misaka.git
-ql repo https://github.com/lu0b0/Script.git
-ql repo https://github.com/LinYuanovo/scripts.git	
-ql repo https://github.com/leafTheFish/DeathNote.git
-ql repo https://github.com/xzxxn777/Surge.git "Script" "Script/BackUp|Script/sendNotify|Script/Github" "sendNotify"
